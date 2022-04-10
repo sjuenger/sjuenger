@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sjuenger
+- 👀 I’m interested in Wikidata, Semantic Web, Python Developement, Big Data applications, C++ developement, UI/UX developement
+- 🌱 I’m currently learning ML skills :) and studying CS to become a B.Sc.
+- 💞️ I’m looking to collaborate on Wikidata projects.
+- 📫 How to reach me: steffen.juenger@gmx.de
