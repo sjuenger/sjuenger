@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjuenger
-- 👀 I’m interested in Wikidata, Semantic Web, Python Developement, Big Data applications, C++ developement, UI/UX developement
-- 🌱 I’m currently learning ML skills :) and studying CS to become a B.Sc.
-- 💞️ I’m looking to collaborate on Wikidata projects.
+- 👀 I’m interested in UI/UX developement, C++, Wikidata, Semantic Web, Python & Big Data applications
+- 🌱 I’m currently trying to get into the Firefox source code to hopefully contribute to this 16year old issue about coordinates missing in drag(-move) events (https://bugzilla.mozilla.org/show_bug.cgi?id=505521) :D
+- 💞️ I’m looking to collaborate on TypeScript/Vue, or Wikidata projects.
 - 📫 How to reach me: steffen.juenger@gmx.de
